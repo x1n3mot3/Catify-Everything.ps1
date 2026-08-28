@@ -1,10 +1,10 @@
-🐾 Catify Everything
+# 🐾 Catify Everything
 A chaotic PowerShell utility that renames your files, adds cat signatures, and plays a meow song.
 Catify Everything is a tiny, silly, harmless PowerShell script that transforms any folder into a feline‑themed digital playground. It renames files using randomly generated cat names, adds “Cat Signatures” to text files, and attempts to play meow-song.mp3 from your Desktop. If the audio file isn’t found, the script throws a dramatic sound error.
 
 This project is purely for fun, aesthetic chaos, and cat‑powered vibes.
 
-✨ Features
+# ✨ Features
 🐱 Random cat‑name file renamer
 
 📝 Adds Cat Signatures to .txt, .log, .cfg, .ini
@@ -17,7 +17,7 @@ This project is purely for fun, aesthetic chaos, and cat‑powered vibes.
 
 😺 87% more feline energy (scientifically unverified)
 
-🎵 Audio Requirement
+# 🎵 Audio Requirement
 Place an MP3 file named meow-song.mp3 on your Desktop.
 The script will automatically detect and play it using Windows Media Player.
 
@@ -26,7 +26,7 @@ If the file is missing, you’ll get:
 Code
 [AUDIO ERROR] meow-song.mp3 not found on Desktop!
 Place the file on your Desktop and run again.
-📦 Installation
+# 📦 Installation
 Download or clone this repository
 
 Place meow-song.mp3 on your Desktop
@@ -37,7 +37,7 @@ Run PowerShell and execute:
 
 powershell
 .\CatifyEverything.ps1
-🧪 How It Works
+# 🧪 How It Works
 The script:
 
 Scans the current directory
@@ -50,7 +50,7 @@ Plays the meow song (if available)
 
 Prints colorful logs throughout the process
 
-📁 Example Output
+# 📁 Example Output
 Code
 Initializing Catify Engine...
 Catifying 12 files...
@@ -60,14 +60,14 @@ Catification complete. Your system is now 87% more feline.
 
 Checking for meow-song.mp3...
 [AUDIO] Playing meow-song.mp3...
-🐾 Why?
+# 🐾 Why?
 Because cats.
 Because chaos.
 Because PowerShell deserves to have fun too.
 
-🧡 Credits
+# 🧡 Credits
 Created by x1n3mot3 (me)  
 Inspired by Chester the cat, glitch aesthetics, and general silliness.
 
-📜 License
+# 📜 License
 MIT License — do whatever you want with it, just don’t blame the cats.
